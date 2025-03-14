@@ -5,7 +5,7 @@ Si Argent > Prix
 Sinon retourner Faux
   Fin Si
 
-  Tant que Prix < Argent 
+  Tant que Argent > Prix 
   Argent ← Bonbon + 1
 Fin tant que
   Retourner Bonbon
