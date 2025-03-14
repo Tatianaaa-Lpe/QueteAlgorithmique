@@ -5,6 +5,7 @@ Début addition (réel Argent, réel Prix)
 + Sinon retourner Faux
   + Fin Si
 
+
   + Tant que Argent > Prix 
   + Argent ← Bonbon + 1
 + Fin tant que
