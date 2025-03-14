@@ -1,1 +1,11 @@
-# Qu-te-Algorithmique
+Début addition (réel Argent, réel Prix)
+
+Si Argent > Prix
+  retourner Vrai
+Sinon retourner Faux
+  Fin Si
+
+  Tant que Prix < Argent 
+  Argent ← Bonbon + 1
+Fin tant que
+  Retourner Bonbon
