@@ -1,16 +1,9 @@
 Début addition (réel Argent, réel Prix)
 
-+ Si Argent > Prix
-  + retourner Vrai
-+ Sinon retourner Faux
++ Si argent > prix     un bonbon
++ Si argent < prix     pas de bonbon
 
-+ Si Bonbon ← Argent + Prix
-  + retourner Bonbon
-+ Fin d'addition
++ Tant que argent > prix
+    → Bonbon +1
 
-  Début d'addition (réel a, réel b)
-
-  + Tant que Argent > Prix 
-  + Argent ← Prix + 1
-+ Fin tant que
-  + Retourner Bonbon
+Fin jusqu'à ce que argent < prix
