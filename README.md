@@ -7,7 +7,8 @@ Début addition (réel Argent, réel Prix)
 + Si argent < prix     (pas de bonbon)
 
 + Tant que argent > prix
-+ argent - prix → +1 bonbon
++ argent ← argent - prix
++ Nombre de bonbon +1
 
 Retourner jusqu'à ce que argent < prix
 
