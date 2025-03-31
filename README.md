@@ -14,4 +14,4 @@ Retourner jusqu'à ce que argent < prix
 
 Fin quand argent < prix
 
-Retourner nombre de bonbon
+Retourner nombre (entier) de bonbon
